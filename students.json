@@ -1,0 +1,31 @@
+[ {
+  "firstName" : "Ioana",
+  "lastName" : "Pop",
+  "studentID" : 100,
+  "totalCredits" : 0,
+  "enrolledCourses" : [ ]
+}, {
+  "firstName" : "Mircea",
+  "lastName" : "Nascutiu",
+  "studentID" : 101,
+  "totalCredits" : 0,
+  "enrolledCourses" : [ ]
+}, {
+  "firstName" : "Ilie",
+  "lastName" : "Moromete",
+  "studentID" : 102,
+  "totalCredits" : 0,
+  "enrolledCourses" : [ ]
+}, {
+  "firstName" : "Justin",
+  "lastName" : "Gomez",
+  "studentID" : 104,
+  "totalCredits" : 0,
+  "enrolledCourses" : [ ]
+}, {
+  "firstName" : "Miriam",
+  "lastName" : "Patti",
+  "studentID" : 105,
+  "totalCredits" : 0,
+  "enrolledCourses" : [ ]
+} ]
